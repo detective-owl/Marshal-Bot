@@ -5,8 +5,9 @@ I used the original code of HenryChu in this project but encountered some issues
 Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LAO7Xp4yGY&ab_channel=HenryChu). I'm trying to do this type of signals so I'll only be using 2 of the servo (https://www.youtube.com/watch?v=0Mpl4VtUABI&ab_channel=MABTechnicalTraining). 
 
 
-ISSUES:
-1. I still don't know how to make the servo move in a repeated gesture and how to integrate the NRF24L01 for a secondary wireless display. 
+THINGS TO DO OR ISSUES:
+1. I still don't know how to make the servo move in a repeated gesture.
+2. How to integrate the NRF24L01 for a secondary wireless display. 
 
 NOTE:
 1. Left Top and Right top refers to the servo facing the actual plane not the one connecting to the other servo. 
