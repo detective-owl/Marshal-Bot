@@ -1,4 +1,4 @@
-Modified Marshall Bot Code
+## Modified Marshall Bot Code
 
 I used the original code of HenryChu in this project but encountered some issues with it. I am trying to learn how to integrate the NRF24L01 in this system to add another wireless display.
 
