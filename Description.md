@@ -12,7 +12,9 @@ ISSUES:
 NOTE:
 1. Left Top and Right top refers to the servo facing the actual plane not the one connecting to the other servo. 
 
+
 ARDUINO CONNECTIONS
+
 
 *LCD*                 
 1. GND-GND
