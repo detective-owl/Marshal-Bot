@@ -12,6 +12,7 @@ THINGS TO DO OR ISSUES:
 NOTE:
 1. Left Top and Right top refers to the servo facing the actual plane not the one connecting to the other servo. 
 2. Left and Right IR must be pointed at the end of the wings of the aircraft and the Center IR must be directly pointed in the nose of the aircraft. 
+3. Make sure your surface is completly flat and is non reflective. This is to minimize any noise within the projecct.
 
 PROBLEMS ENCOUNTERED:
 1. Sharp Infrared sensor is not accurate and is only consistent in specific ranges not the whole range specified in the data sheet. Putting a 200uF capacitor between the IR sensors stabilizes some of the values. Meaning you should find the working range of the IR sensor for it to be usable. The IR sensors should also not be positioned near to one another as this gives out some interference. 
