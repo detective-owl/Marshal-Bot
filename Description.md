@@ -6,7 +6,7 @@ ISSUES:
 1. Sharp Infrared sensor is not accurate and is only consistent in specific ranges not the whole range specified in the data sheet. Putting a 200uF capacitor between the IR sensors stabilizes some of the values. 
 
 NOTE:
-1. Left Top and Right top reffers to the servo facing the actual plane not the one connecting to the other servo. 
+1. Left Top and Right top refers to the servo facing the actual plane not the one connecting to the other servo. 
 
 ARDUINO CONNECTIONS
 
