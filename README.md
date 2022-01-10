@@ -6,7 +6,7 @@ I used the original code of HenryChu in this project but encountered some issues
 ARDUINO CONNECTIONS
 
 *LCD to Arduino*
-GND-GND
-VCC-VCC
-SDA-A4
-SCK-A5
+1. GND-GND
+2. VCC-VCC
+3. SDA-A4
+4. SCK-A5
