@@ -55,17 +55,17 @@ ARDUINO CONNECTIONS
 2. Red-VCC
 3. Orange-D2
 
-*IR Sensor 1 (Left)
+*IR Sensor 1 (Left)*
 1. Red-VCC
 2. Black-GND
 3. Yellow-A0
 
-*IR Sensor 2 (Center)
+*IR Sensor 2 (Center)*
 1. Red-VCC
 2. Black-GND
 3. Yellow-A1
 
-*IR Sensor 3 (Right)
+*IR Sensor 3 (Right)*
 1. Red-VCC
 2. Black-GND
 3. Yellow-A2
