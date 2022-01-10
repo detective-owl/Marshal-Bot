@@ -30,10 +30,10 @@ MATERIALS USED
 ARDUINO CONNECTIONS
 
 *LCD*                 
-  1. GND-GND
-  2. VCC-VCC
-  3. SDA-A4
-  4. SCK-A5
+ 1. GND-GND
+ 2. VCC-VCC
+ 3. SDA-A4
+ 4. SCK-A5
 
 *Servo Motors 1 (Left Top)*
 1. Brown-GND
