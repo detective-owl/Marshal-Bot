@@ -5,8 +5,28 @@ I used the original code of HenryChu in this project but encountered some issues
 
 ARDUINO CONNECTIONS
 
-*LCD to Arduino*
+*LCD*
 1. GND-GND
 2. VCC-VCC
 3. SDA-A4
 4. SCK-A5
+
+*Servo Motors 1 (Left Top)*
+1. Brown-GND
+2. Red-VCC
+3. Orange-D5
+
+*Servo Motors 2 (Left)*
+1. Brown-GND
+2. Red-VCC
+3. Orange-D4
+
+*Servo Motors 3 (Right Top)*
+1. Brown-GND
+2. Red-VCC
+3. Orange-D3
+
+*Servo Motors 4 (Right)*
+1. Brown-GND
+2. Red-VCC
+3. Orange-D2
