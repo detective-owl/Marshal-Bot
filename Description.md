@@ -70,7 +70,7 @@ ARDUINO CONNECTIONS
 2. Black-GND
 3. Yellow-A2
 
-*NRF24L01 (Tx)*
+*NRF24L01 (Tx)* (IR Sensor, Servo, Arduino 1, LCD 1)
 1. VCC-
 2. GND-
 3. CSN-
@@ -78,7 +78,7 @@ ARDUINO CONNECTIONS
 5. SCK-
 6. MOSI-
 
-*NRF24L01 (Rx)*
+*NRF24L01 (Rx)* (Arduino 2, LCD 2)
 1. VCC-
 2. GND-
 3. CSN-
