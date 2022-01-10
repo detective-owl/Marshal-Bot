@@ -7,7 +7,7 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 
 ISSUES:
 1. Sharp Infrared sensor is not accurate and is only consistent in specific ranges not the whole range specified in the data sheet. Putting a 200uF capacitor between the IR sensors stabilizes some of the values. Meaning you should find the working range of the IR sensor for it to be usable.
-2. I still don't know how to make the servo move in a repeated gesture and how the NRF24L01 for a secondary wireless display. 
+2. I still don't know how to make the servo move in a repeated gesture and how to integrate the NRF24L01 for a secondary wireless display. 
 
 NOTE:
 1. Left Top and Right top refers to the servo facing the actual plane not the one connecting to the other servo. 
