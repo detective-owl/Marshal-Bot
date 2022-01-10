@@ -20,15 +20,20 @@ PROBLEMS ENCOUNTERED
 PROGRESS 
 1. https://streamable.com/qh4wsc
 
+MATERIALS USED
+1. 3 Sharp IR Sensor GP2Y0A02YK0F
+2. 4 SG90 Servo Motor
+3. 2 Arduino Uno
+4. IC2 LCD Display
+
 
 ARDUINO CONNECTIONS
 
-
 *LCD*                 
-1. GND-GND
-2. VCC-VCC
-3. SDA-A4
-4. SCK-A5
+  1. GND-GND
+  2. VCC-VCC
+  3. SDA-A4
+  4. SCK-A5
 
 *Servo Motors 1 (Left Top)*
 1. Brown-GND
