@@ -23,7 +23,7 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 
 ### MATERIALS USED:
 1. 3 Sharp IR Sensor GP2Y0A02YK0F
-2. 4 SG90 Servo Motor
+2. 4 SG90 Servo Motor (Maybe use a continuous servo motor if you want to support all of the gestures)
 3. 2 Arduino Uno
 4. IC2 LCD Display
 
