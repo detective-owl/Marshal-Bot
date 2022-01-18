@@ -34,7 +34,8 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 
 
 1. Calibration when the left and right won't work.
-```         [L sensor]         [C sensor]         [R sensor]
+```
+        [L sensor]         [C sensor]         [R sensor]
 
 stop - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
