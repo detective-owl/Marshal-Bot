@@ -108,7 +108,7 @@ stop - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  *This is for the configuration of the servo*
  
   ```
-    |X|               ___________
+     |X|               ___________
      |X|sensor]       /   the Plane
      |X||X|           \___________
      |X||X|
