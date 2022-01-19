@@ -23,6 +23,8 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 
 ### PROGRESS:
 1. https://streamable.com/qh4wsc
+2. https://streamable.com/149u6r
+3. https://streamable.com/ekjhbb
 
 ### MATERIALS USED:
 1. 3 Sharp IR Sensor GP2Y0A02YK0F
@@ -87,6 +89,25 @@ stop - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ```
  *This is for the configuration of the servo*
  
+  ```
+    |X|               ___________
+     |X|sensor]       /   the Plane
+     |X||X|           \___________
+     |X||X|
+       \__\______ foam boards
+ ```
+ *Sensor mounting suggestion*
+ 
+ ```
+               | Left  |  Center | Right |
+              |Min|Max| Min|Max |Min|Max|
+| Go Straight | 40| 40| 32 | 55 | 50| 56|
+| Go Left     | 40| 40| 50 | 55 | 30| 54|
+| Go Right    | 30| 54| 50 | 55 | 40| 40|
+```
+*Values to be expected when calibrating your `Turn Left` and `Turn Right` *
+
+
  All of the drawings and diangrams are Made by Toph#6152
 
 ### ARDUINO CONNECTIONS:
