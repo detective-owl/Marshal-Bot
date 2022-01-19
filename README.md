@@ -32,6 +32,23 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 3. 2 Arduino Uno
 4. IC2 LCD Display
 
+### SENSOR CALIBRATION SUGGESTIONS BY Toph#6152
+Measurement Suggestions:
+`Go Straight:`
+1) Plane in middle of runway (far end);
+2) Get average reading of C, this is your GoStraight_C_Max value;
+3) Plane still in middle but now close to "Stop" (but barely there);
+4) Get average reading of C, this is your GoStraight_C_Min value;
+^ while you're doing this, the min/max values for L & R sensors should be the close to the same at C_Min or C_Max 
+
+`Go Left:`
+1) Plane in right of runway (far end);
+2) Get average reading of R, this is your GoLeft_R_Max value;
+3) Plane still in the right but now closer to "Stop";
+4) Get average reading of R, this is your GoLeft_R_Min value;
+^ while you're doing this, the min/max values for L & C sensors should be the close to the same at R_Min or R_Max 
+
+
 ### Diagrams:
 
 
@@ -73,6 +90,7 @@ stop - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  ```
  *This is for your GoLeft L max*
  
+2. Notes for people who want to do this is the future.
 ```
            180°       0°
             /          \
