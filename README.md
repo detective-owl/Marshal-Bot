@@ -32,8 +32,7 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 3. 2 Arduino Uno
 4. IC2 LCD Display
 
-### SENSOR CALIBRATION SUGGESTIONS BY Toph#6152
-Measurement Suggestions:
+### MEASUREMENT CALIBRATION SUGGESTIONS BY Toph#6152
 `Go Straight:`
 1) Plane in middle of runway (far end);
 2) Get average reading of C, this is your GoStraight_C_Max value;
