@@ -125,7 +125,7 @@ stop - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 *Values to be expected when calibrating your `Turn Left` and `Turn Right` *
 
 
- All of the drawings and diangrams are Made by Toph#6152
+ All of the drawings and diagrams are Made by Toph#6152
 
 ### ARDUINO CONNECTIONS:
 
