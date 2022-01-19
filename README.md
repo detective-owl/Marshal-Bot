@@ -67,9 +67,9 @@ stop - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ```
 *This is for your GoLeft L min*
 
-
-         [L sensor]         [C sensor]         [R sensor]
 ```
+         [L sensor]         [C sensor]         [R sensor]
+
 stop - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
