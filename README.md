@@ -19,7 +19,7 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 ### PROBLEMS ENCOUNTERED:
 1. Sharp Infrared sensor is not accurate and is only consistent in specific ranges not the whole range specified in the data sheet. Putting a 200uF capacitor between the IR sensors stabilizes some of the values. Meaning you should find the working range of the IR sensor for it to be usable. The IR sensors should also not be positioned near to one another as this gives out some interference. 
 2. When finding a usable range get 5 values and average them out. 
-3. In the original code the servo will not move repeatedly. It would move to one position and stays there. To move the servo in a continous motion first determine your 0 degrees (mine is in the 3 o'clock). Then to make the gestures work follow the quotations in the code given.
+3. In the original code the servo will not move repeatedly. It would move to one position and stays there. To move the servo in a continuous motion first determine your 0 degrees (mine is in the 3 o'clock). Then to make the gestures work follow the quotations in the code given.
 
 ### PROGRESS:
 1. https://streamable.com/qh4wsc
