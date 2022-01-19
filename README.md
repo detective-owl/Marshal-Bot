@@ -117,7 +117,7 @@ stop - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  
  ```
                | Left  |  Center | Right |
-              |Min|Max| Min|Max |Min|Max|
+               |Min|Max| Min|Max |Min|Max|
 | Go Straight | 40| 40| 32 | 55 | 50| 56|
 | Go Left     | 40| 40| 50 | 55 | 30| 54|
 | Go Right    | 30| 54| 50 | 55 | 40| 40|
