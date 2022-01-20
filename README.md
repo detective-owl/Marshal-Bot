@@ -31,6 +31,7 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 2. 4 SG90 Servo Motor (Maybe use a continuous servo motor if you want to support all of the gestures)
 3. 2 Arduino Uno
 4. IC2 LCD Display
+5. NRF24L01 Arduino Libraries needed (LCD, Sharp, NRF, Servo)
 
 ### MEASUREMENT CALIBRATION SUGGESTIONS BY Toph#6152
 `Go Straight:`
