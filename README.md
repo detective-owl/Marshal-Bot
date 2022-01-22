@@ -197,3 +197,4 @@ stop - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ### SUGGESTIONS:
 1. You could use and LED Matrix to change the secondary display some of the gestures you could put is `←,→,↑,↓,x,| |`. (Suggested by Toph#6152). This is more practical since it will be more easier to read and glare won't be an issue.
+2. Try using an ultrasonic sensor if you want to use this in a longer range with more consistent values. This also means your plane should be bigger since there are some interference when they are near each other.
