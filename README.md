@@ -30,7 +30,7 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 1. 3 Sharp IR Sensor GP2Y0A02YK0F
 2. 4 SG90 Servo Motor (Maybe use a continuous servo motor if you want to support all of the gestures)
 3. 2 Arduino Uno
-4. IC2 LCD Display
+4. 2 IC2 LCD Display
 5. NRF24L01 Arduino Libraries needed (LCD, Sharp, NRF, Servo)
 
 ### MEASUREMENT CALIBRATION SUGGESTIONS BY Toph#6152
@@ -172,17 +172,28 @@ stop - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 3. Yellow-A2
 
 *NRF24L01 (Tx)* (IR Sensor, Servo, Arduino 1, LCD 1)
-1. VCC-
-2. GND-
-3. CSN-
-4. CE-
-5. SCK-
-6. MOSI-
+1. VCC-VCC
+2. GND-GND
+3. CSN-D8
+4. CE-D7
+5. SCK-D13
+6. MOSI-D11
+7. MISO-D12
 
 *NRF24L01 (Rx)* (Arduino 2, LCD 2)
-1. VCC-
-2. GND-
-3. CSN-
-4. CE-
-5. SCK-
-6. MOSI-
+1. VCC-VCC
+2. GND-GND
+3. CSN-D8
+4. CE-D7
+5. SCK-D13
+6. MOSI-D11
+7. MISO-D12
+
+*LCD*                 
+1. GND-GND
+2. VCC-VCC
+3. SDA-A4
+4. SCK-A5
+
+### SUGGESTIONS:
+1. You could use and LED Matrix to change the secondary display some of the gestures you could put is `←,→,↑,↓,x,| |`. (Suggested by Toph#6152). This is more practical since it will be more easier to read and glare won't be an issue.
