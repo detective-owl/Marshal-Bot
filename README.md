@@ -8,7 +8,7 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 
 
 ### THINGS TO DO OR ISSUES:
-1. How to integrate the NRF24L01 for a secondary wireless display. 
+1. How to integrate the NRF24L01 for a secondary wireless display. If a reliable communication and not erratic.
 
 ### NOTE:
 1. Left Top and Right top refers to the servo facing the actual plane not the one connecting to the other servo. 
