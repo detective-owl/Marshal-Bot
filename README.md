@@ -8,7 +8,7 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 
 
 ### THINGS TO DO OR ISSUES:
-1. How to integrate the NRF24L01 for a secondary wireless display. If a reliable communication and not erratic.
+1. The code for the wireless integration is done but takes a long time before the Rx side is received. Still troubleshooting to see if the problem is it's within the module or the actual code.
 
 ### NOTE:
 1. Left Top and Right top refers to the servo facing the actual plane not the one connecting to the other servo. 
