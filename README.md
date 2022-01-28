@@ -105,6 +105,8 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 ![alt text](https://github.com/detective-owl/Marshal-Bot/blob/master/Images/Tx%20Station%20.png)
 2. RX station
 ![alt text]
+3. Marshall Bot without NRF24L01
+![alt text](https://github.com/detective-owl/Marshal-Bot/blob/master/Images/Marshall%20Bot%20without%20wireless%20integration.png)
 
 ### MEASUREMENT CALIBRATION SUGGESTIONS BY Toph#6152
 `Go Straight:`
