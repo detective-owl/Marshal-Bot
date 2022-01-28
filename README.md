@@ -104,7 +104,7 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 1. TX station
 ![alt text](https://github.com/detective-owl/Marshal-Bot/blob/master/Images/Tx%20Station%20.png)
 2. RX station
-![alt text]
+![alt text](https://github.com/detective-owl/Marshal-Bot/blob/master/Images/Rx%20Station%20.png)
 3. Marshall Bot without NRF24L01
 ![alt text](https://github.com/detective-owl/Marshal-Bot/blob/master/Images/Marshall%20Bot%20without%20wireless%20integration.png)
 
