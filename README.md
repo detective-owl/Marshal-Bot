@@ -33,6 +33,79 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 4. 2 IC2 LCD Display
 5. NRF24L01 Arduino Libraries needed (LCD, Sharp, NRF, Servo)
 
+
+### ARDUINO CONNECTIONS:
+
+*LCD*                 
+ 1. GND-GND
+ 2. VCC-VCC
+ 3. SDA-A4
+ 4. SCK-A5
+
+*Servo Motors 1 (Left Top)*
+1. Brown-GND
+2. Red-VCC
+3. Orange-D5
+
+*Servo Motors 2 (Left)*
+1. Brown-GND
+2. Red-VCC
+3. Orange-D4
+
+*Servo Motors 3 (Right Top)*
+1. Brown-GND
+2. Red-VCC
+3. Orange-D3
+
+*Servo Motors 4 (Right)*
+1. Brown-GND
+2. Red-VCC
+3. Orange-D2
+
+*IR Sensor 1 (Left)*
+1. Red-VCC
+2. Black-GND
+3. Yellow-A0
+
+*IR Sensor 2 (Center)*
+1. Red-VCC
+2. Black-GND
+3. Yellow-A1
+
+*IR Sensor 3 (Right)*
+1. Red-VCC
+2. Black-GND
+3. Yellow-A2
+
+*NRF24L01 (Tx)* (IR Sensor, Servo, Arduino 1, LCD 1)
+1. VCC-VCC
+2. GND-GND
+3. CSN-D8
+4. CE-D7
+5. SCK-D13
+6. MOSI-D11
+7. MISO-D12
+
+*NRF24L01 (Rx)* (Arduino 2, LCD 2)
+1. VCC-VCC
+2. GND-GND
+3. CSN-D8
+4. CE-D7
+5. SCK-D13
+6. MOSI-D11
+7. MISO-D12
+
+*LCD*                 
+1. GND-GND
+2. VCC-VCC
+3. SDA-A4
+4. SCK-A5
+### SCHEMATICS
+1. TX station
+![alt text](https://github.com/detective-owl/Marshal-Bot/blob/master/Images/Tx%20Station%20.png)
+2. RX station
+![alt text]
+
 ### MEASUREMENT CALIBRATION SUGGESTIONS BY Toph#6152
 `Go Straight:`
 1) Plane in middle of runway (far end);
@@ -127,73 +200,6 @@ stop - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 
  All of the drawings and diagrams are Made by Toph#6152
-
-### ARDUINO CONNECTIONS:
-
-*LCD*                 
- 1. GND-GND
- 2. VCC-VCC
- 3. SDA-A4
- 4. SCK-A5
-
-*Servo Motors 1 (Left Top)*
-1. Brown-GND
-2. Red-VCC
-3. Orange-D5
-
-*Servo Motors 2 (Left)*
-1. Brown-GND
-2. Red-VCC
-3. Orange-D4
-
-*Servo Motors 3 (Right Top)*
-1. Brown-GND
-2. Red-VCC
-3. Orange-D3
-
-*Servo Motors 4 (Right)*
-1. Brown-GND
-2. Red-VCC
-3. Orange-D2
-
-*IR Sensor 1 (Left)*
-1. Red-VCC
-2. Black-GND
-3. Yellow-A0
-
-*IR Sensor 2 (Center)*
-1. Red-VCC
-2. Black-GND
-3. Yellow-A1
-
-*IR Sensor 3 (Right)*
-1. Red-VCC
-2. Black-GND
-3. Yellow-A2
-
-*NRF24L01 (Tx)* (IR Sensor, Servo, Arduino 1, LCD 1)
-1. VCC-VCC
-2. GND-GND
-3. CSN-D8
-4. CE-D7
-5. SCK-D13
-6. MOSI-D11
-7. MISO-D12
-
-*NRF24L01 (Rx)* (Arduino 2, LCD 2)
-1. VCC-VCC
-2. GND-GND
-3. CSN-D8
-4. CE-D7
-5. SCK-D13
-6. MOSI-D11
-7. MISO-D12
-
-*LCD*                 
-1. GND-GND
-2. VCC-VCC
-3. SDA-A4
-4. SCK-A5
 
 ### SUGGESTIONS:
 1. You could use and LED Matrix to change the secondary display some of the gestures you could put is `←,→,↑,↓,x,| |`. (Suggested by Toph#6152). This is more practical since it will be more easier to read and glare won't be an issue.
