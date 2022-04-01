@@ -2,7 +2,7 @@
 
 I used the original code of HenryChu in this project but encountered some issues with it. I am trying to learn how to integrate the HC-12 in this system to add another wireless display.
 
-EDIT: I found one of Henry Chu's groupmate that has the complete code but wans't able to verify if it's working because I started editing the code of Henry Chu. (https://github.com/jeffistyping/Marshall)
+EDIT: I found one of Henry Chu's groupmate that has the complete code but wasn't able to verify if it's working because I started editing the code of Henry Chu. (https://github.com/jeffistyping/Marshall)
 
 Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LAO7Xp4yGY&ab_channel=HenryChu). I'm trying to do this type of signals so for now, I'll only be using 2 of the servo (https://www.youtube.com/watch?v=0Mpl4VtUABI&ab_channel=MABTechnicalTraining). 
 
