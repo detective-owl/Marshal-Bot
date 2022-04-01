@@ -30,7 +30,8 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 2. 4 SG90 Servo Motor (Maybe use a continuous servo motor if you want to support all of the gestures)
 3. 2 Arduino Uno
 4. 2 IC2 LCD Display
-5. NRF24L01 Arduino Libraries needed (LCD, Sharp, NRF, Servo) **This will not work if you are using an LCD library since it interfere's with the transmission)**
+5. 2 HC-12 transceiver
+6. NRF24L01 Arduino Libraries needed (LCD, Sharp, NRF, Servo) **This will not work if you are using an LCD library since it interfere's with the transmission)**
 
 ### ARDUINO CONNECTIONS:
 
