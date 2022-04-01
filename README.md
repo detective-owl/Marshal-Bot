@@ -8,7 +8,7 @@ Here is the demostration that HenryChu made (https://www.youtube.com/watch?v=_LA
 
 ### NOTE:
 1. Left Top and Right top refers to the servo facing the actual plane not the one connecting to the other servo. 
-2. Left and Right IR must be pointed at the end of the wings of the aircraft and the Center IR must be directly pointed in the nose of the aircraft. 
+2. Left and Right IR must be pointed at the end of the wings of the aircraft and the Center IR must be directly pointed in the nose of the aircraft. Make sure all of the sensors are in the same height. 
 3. Make sure your surface is completly flat and is non reflective. This is to minimize any noise within the projecct.
 4. All of your sensor must not be sagging and directly pointed to your plane. If done properly values without anything infront must be around the 100 mark.
 5. During calibration it's better to take measurements after 10 mins of turning the device on. Then also get values in different lighting conditions to know the variation on data. 
